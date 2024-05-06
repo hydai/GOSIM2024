@@ -6,6 +6,10 @@ Hung-Ying Tai (hydai) is the maintainer of the WasmEdge Runtime project and an e
 He is a prolific mentor in the Linux Foundation Mentorship program and a CNCF Ambassador.
 He also contributes to many high profile open source projects within and beyond the CNCF.
 
+## Slides
+
+[Write Once Run Anywhere, But for GPUs](https://docs.google.com/presentation/d/1FwaEVob-u6fVmXQTUqPpguV-1rjVBtEJEiheR3kL1aA/edit?usp=sharing)
+
 ## Tutorials
 
 [1. Run a simple llama chat application](01-run-llamaedge-chat.md)
