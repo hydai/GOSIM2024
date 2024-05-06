@@ -8,10 +8,10 @@ He also contributes to many high profile open source projects within and beyond 
 
 ## Tutorials
 
-1. Run a simple llama chat application
-2. Interact with a LLM API server
-3. Play with a RAG Application using Gaianet
-4. Container Integration with Docker/Podman using crun
+[1. Run a simple llama chat application](01-run-llamaedge-chat.md)
+[2. Interact with a LLM API server](02-run-llamaedge-api-server.md)
+[3. Play with a RAG Application using Gaianet](03-gaianet.md)
+[4. Container Integration with Docker/Podman using crun](04-docker-wasm-gpu.md)
 
 ## Get Connected
 
